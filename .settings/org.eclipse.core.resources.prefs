@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//Core/core_riscv.h=GBK
+encoding//Debug/debug.c=GBK
+encoding//Debug/debug.h=GBK
+encoding//Peripheral/inc/ch32v30x.h=GBK
+encoding//Peripheral/inc/ch32v30x_gpio.h=GBK
+encoding//Peripheral/src/ch32v30x_gpio.c=GBK
+encoding//Peripheral/src/ch32v30x_misc.c=GBK
+encoding//Startup/startup_ch32v30x_D8C.S=GBK
+encoding//User/gpio.c=GBK
+encoding//User/gpio.h=GBK
+encoding//User/main.c=GBK
+encoding//User/system_ch32v30x.c=GBK
+encoding//User/tim.c=GBK
+encoding//User/tim.h=GBK
+encoding/CH32V307VCT6_pruebas.launch=GBK
